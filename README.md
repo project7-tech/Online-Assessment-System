@@ -94,15 +94,15 @@ The Online Assessment System is a feature-rich web application designed for cond
 
 - The application implements basic security by storing MD5 hashes of passwords instead of plain text.
 - Currently teachers can add student accounts but teacher accounts must be added manually and password must be entered in MD5 value.
-- The credentials for the teacher login is username : `teacher`, password : `azimkrishna`.
+- The credentials for the teacher login is username : `teacher`, password : `kevin`.
 - Correct options are stored in the database and not inside js scripts to prevent malpractice.
 - The system is optimized for laptop and desktop screens with resolutions from 1920x1080 to 1440x900.
 - The greeting text and background of the login page change according to IST time, adding a personalized touch to the user experience.
 
 ## Developer 👨‍💻
 
-- Developed by: Azim Krishna
-- Contact: azimbaji19@gmail.com
+- Developed by: Kevin Nyatinga
+- Contact: k3ntkevin@gmail.com
 - Feedback and Support 💌: I would love to hear your feedback on the Online Assessment System! If you have any suggestions, encounter issues, or need assistance, please feel free to reach out to me via email. Your feedback helps me improve and provide better solutions.
 
 Feel free to use this Online Assessment System and adapt it to your needs! 😃
